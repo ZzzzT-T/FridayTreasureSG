@@ -10,5 +10,5 @@ Tell us one thing you enjoyed learning in this course. Edit this file and add yo
 - Convert this into a simple website using React and upload your website to the new repository
 - Containerize the same app using Docker
 
-![Singapore](sg-pic.jpg)
+![mbs.jpg]()
 
